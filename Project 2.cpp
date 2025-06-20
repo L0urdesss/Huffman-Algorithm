@@ -1,5 +1,5 @@
-//Mark Toni Ramsol L. Tagalogon   BSCS -2B-M
-//Maria Lourdes T. Villaruz    BSCS -2B-M
+//Mark Toni Ramsol L. Tagalogon 
+//Maria Lourdes T. Villaruz 
 #include <iostream>
 #include <iomanip>
 #include <queue>
